@@ -1,0 +1,26 @@
+# ── Core LangChain / LangGraph ────────────────────────────────────────────────
+langchain>=0.3.0
+langgraph>=0.2.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-groq>=0.2.0
+
+# ── LLM Providers ─────────────────────────────────────────────────────────────
+langchain-openai>=0.2.0          # optional; kept for future provider expansion
+
+# ── Tools ─────────────────────────────────────────────────────────────────────
+tavily-python>=0.5.0             # Tavily search client (used by news agent)
+langchain-tavily>=0.1.0 
+tavily
+         # LangChain Tavily tool wrapper
+arxiv>=2.1.0                     # arXiv API wrapper
+wikipedia>=1.4.0                 # Wikipedia API wrapper
+
+# ── Vector store (kept for future RAG expansion) ──────────────────────────────
+faiss-cpu>=1.8.0
+
+# ── UI ────────────────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── Observability (optional) ──────────────────────────────────────────────────
+# langsmith>=0.1.0               # uncomment to enable LangSmith tracing
