@@ -1,0 +1,22 @@
+# Daily AI News Summary
+
+### 2026-05-18
+- [Operation Sindoor was the first large-scale South Asian conflict in which AI played a central and openly declared role on both sides, marking a shift in global power dynamics](https://www.jpost.com/defense-and-tech/article-896510)
+- [Amar Narayan has joined strategy consultancy Oliver Wyman as a partner in its performance transformation practice, where he will also serve as part of the team for Oliver Wyman’s artificial intelligence platform, Quotient](https://www.consultancy.uk/news/44108/amar-narayan-joins-oliver-wyman-as-partner-in-newcastle-office)
+- [PaXini Technology’s Wayne Dai outlines the company’s core advantages, from building high-quality datasets for training embodied AI to reducing sensor costs through proprietary technology](https://www.cnbc.com/video/2026/05/18/we-are-serving-the-global-market-paxini-on-the-next-frontier-in-ai.html)
+- [According to Synack’s 2026 State of Vulnerabilities Report, AI-enabled adversaries are shrinking the gap between a CVE’s public disclosure and the first observed exploitation by threat actors](https://www.helpnetsecurity.com/2026/05/18/synack-2025-ai-driven-vulnerability-trends-report/)
+- [Wall Street is treating AI like a defensive trade, Goldman Sachs says, as investors return to AI stocks amid macro fears](https://www.businessinsider.com/goldman-sachs-ai-defensive-trade-next-big-winner-cooling-systems-2026-5)
+- [Future travel centers on trust, not artificial intelligence, with a shift towards relying on information, companies, and human insights](https://www.tourism-review.com/future-travel-to-rely-not-only-on-artificial-intelligence-news15465)
+
+### 2026-05-17
+- [A low-res hair-clip camera has appeared as a wearable accessory that "speaks to people," and the product description explicitly excludes bald users](https://letsdatascience.com/news/hair-clip-cameras-arrive-targeting-haired-wearers-de92f531)
+- [Flinders University researchers argue that AI models should be judged more by how they safely improve patient outcomes in real-world care than by benchmarks or demonstrations](https://www.mobihealthnews.com/news/anz/subjecting-ai-human-doctor-standards)
+- [Sony's Project Ace has created the first robot to beat an elite human table tennis player, with nine cameras analyzing spin and tracking the ball in real time](https://www.cnet.com/videos/ping-pong-robot-defeats-elite-human-player/)
+- [AI advances are breaking into the physical world, with robots soon learning how to do tasks like emptying the washing machine and washing dishes](https://nypost.com/2026/05/17/tech/souped-up-ai-is-making-robots-think-learn-for-themselves-and-out-perform-us/)
+- [Rising Bitcoin volatility drives demand for AI systems as AIX Alpha expands quant infrastructure](https://markets.businessinsider.com/news/stocks/rising-bitcoin-volatility-drives-demand-for-ai-systems-as-aix-alpha-expands-quant-infrastructure-1036166569)
+- [It's risky to talk about Artificial Intelligence at graduation ceremonies, as students may perceive AI as the "new face of hyper-ruthless capitalism"](https://zamin.uz/en/technology/201635-why-is-it-risky-to-talk-about-artificial-intelligence-at-graduation-ceremonies.html)
+- [Data center REITs are underappreciated winners of AI, as they work in the back end and provide attractive income](https://www.cnbc.com/2026/05/17/these-underappreciated-winners-of-ai-also-pay-solid-income.html)
+- [AixAlpha launches first AI-powered XRP quantitative system, designed to support intelligent automation and real-time market analysis](https://markets.businessinsider.com/news/stocks/is-it-time-for-xrp-aixalpha-launches-first-ai-powered-xrp-quantitative-system-1036166492)
+- [Apple prepares new privacy-enhancing features for Siri, including a feature to automatically delete user conversations after 30 days or one year](https://zamin.uz/en/technology/201652-apple-prepares-new-privacy-enhancing-features-for-siri.html)
+- [China is investing heavily in humanoid robots, with Beijing rolling out a blueprint for the country’s future industries in 2026](https://tanzaniatimes.net/china-rolling-out-more-humanoid-robots-in-2026-as-beijing-charts-future-industries-development/)
+- [Multiple commencement speakers were booed for AI comments during graduation speeches, as new graduates face a daunting job market](https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518)
